@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ziergestalt
 - 👀 I’m interested in everything Python 
-- 🌱 I’m currently learning setting up a data pipeline in a docker environment
-- 📫 How to reach me ...
+- 🌱 I’m currently learning setting up time series data forecasting using CNN-LSTM and generating time series data with GANs
+- 📫 How to reach me ziergestalt.com
 
 <!---
 ziergestalt/ziergestalt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
